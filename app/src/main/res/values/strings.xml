@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ShoeStore</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="enter_your_email">"Enter your email "</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="new_login">New login</string>
+    <string name="existing_account">Login with existing account</string>
+    <string name="welcome">"Welcome to the shoe app !! "</string>
+    <string name="press_button">Press the button below to start using your shoe app</string>
+    <string name="start">Start</string>
+    <string name="how_to_use">How to use the app </string>
+    <string name="instructions">1. Click the button below to go to the shoe list\n\n
+    2. In the shoe list you can view the details of the shoe items\n\n
+    3. Click the + button in the shoe list to add a new shoe item</string>
+    <string name="go_to_shoe_list">Go to Shoe List</string>
+    <string name="add_button">add </string>
+    <string name="logout">Logout</string>
+    <string name="enter_specifications">"Enter the specifications of your shoe item below "</string>
+    <string name="shoe_name">Shoe Name</string>
+    <string name="company">Company</string>
+    <string name="shoe_size">Shoe Size</string>
+    <string name="description">Description</string>
+    <string name="enter_shoe_name">Enter shoe name</string>
+    <string name="enter_company">Enter company name</string>
+    <string name="enter_shoe_size">Enter shoe Size</string>
+    <string name="enter_description">Enter description </string>
+    <string name="save">Save</string>
+    <string name="shoe">Shoe name:  %s \nCompany:  %s \nShoe size:  %s \nDescription:  %s </string>
+    <string name="image">Image</string>
+
+</resources>
